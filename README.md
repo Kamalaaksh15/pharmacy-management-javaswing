@@ -1,4 +1,5 @@
-# 🔥 Pharmacy Management System 🔥 #This is a Pharmacy Management System developed using Java Swing. This application allows pharmacists to manage the inventory of the pharmacy, add, update and remove drugs, and manage customer information.
+# 🔥 Pharmacy Management System 🔥 #
+This is a Pharmacy Management System developed using Java Swing. This application allows pharmacists to manage the inventory of the pharmacy, add, update and remove drugs, and manage customer information.
 
 
 # Project Outline ☘ #
